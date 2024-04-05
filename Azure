@@ -1,1 +1,45 @@
+Azure Storage
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Microsoft provides a smart solution for modern day data storage problems with Azure storage.
+
+With the growth of Web technology, data is also growing day by day, because of which there is a demand
+
+for a modern and upscale method to store and manage data on the cloud.
+
+And answer to all of that is Azure storage.
+
+In order to access the storage services and other services offered by Azure, you will need an Azure
+
+storage account.
+
+But before we dive deeper into the course, let's briefly take a look at the advantages that Azure storage
+
+brings to the table.
+
+Data stored in an Azure storage account is replicated and kept in different geographical location.
+
+So in case of any hardware failure or a disaster, you have replica of the data which leads to durability
+
+and high availability.
+
+With any data.
+
+Security plays an important role, and Azure Storage provides SaaS keys to restrict the data access.
+
+We will be creating the SaaS keys as we proceed with the course.
+
+Then when we work with cloud technology, the big advantage is scalability.
+
+Data inside Azure, storage is automatically scaled up to accommodate any peak demands.
+
+And when you are building application that is used throughout the world, accessibility also plays very
+
+important role.
+
+Azure Storage handles that elegantly and we have multiple ways of accessing our storage account.
+
+If you are working with a net application, then Azure Storage has NuGet packages with many helper methods
+
+that would make the interaction with storage account a seamless process.
+
 
